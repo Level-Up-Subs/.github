@@ -13,6 +13,3 @@ Our server, named "casino", runs all of our projects. It is easy to set up and c
 ## Team
 * Level Up Subs main contact: jake@levelupsubs.com
 * Software Developer: me@nberr.io
-
-## Legal
-Please note that none of repos contain a license, meaning all rights are reserved!
