@@ -9,3 +9,7 @@ Level Up Subs is a Preferred Dealer for PSA and SGC. We offer personal and group
 
 ## Server
 Our server, named "casino", runs all of our projects. It is easy to set up and can be modified to handle your business needs as well. If you are a certified PSA Dealer, feel free to contact us if you would like similar programs up and running for your own business.
+
+## Team
+* Level Up Subs main contact: jake@levelupsubs.com
+* Software Developer: me@nberr.io
