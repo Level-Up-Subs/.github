@@ -7,7 +7,7 @@ Level Up Subs is a Preferred Dealer for PSA and SGC. We offer personal and group
 * grade-server: connects the sub-tracker and grade-fetcher
 * order-manager: manages and creates order sheets for PSA pickups
 * dashboard: view data for server, psa website/API status, and other important information
-* grades: cached grades and images
+* result-data: cached grades and images
 
 ## Server
 Our server, named "casino", runs all of our projects. It is easy to set up and can be modified to handle your business needs as well. If you are a certified PSA Dealer, feel free to contact us if you would like similar programs up and running for your own business.
